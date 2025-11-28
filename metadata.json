@@ -1,0 +1,5 @@
+{
+  "name": "AutoGLM Privacy Guard",
+  "description": "A high-precision privacy compliance engine for mobile automation scenarios, strictly adhering to Chinese PIPL and data security laws.",
+  "requestFramePermissions": []
+}
